@@ -9,6 +9,7 @@ authors = [
   { name="Mike Hoolehan", email="mike@starheightmedia.com" },
 ]
 description = "Utilities and helpers for integrating Django + Vue"
+license = { file = "LICENSE" }
 readme = "README.rst"
 requires-python = ">=3.7"
 classifiers = [
